@@ -1,4 +1,6 @@
 # ScreenMateCreator
+![Демонстрация работы программы](https://sun9-36.vkuserphoto.ru/s/v1/ig2/UM3tU__am2A07kgrDPcoSiXRItVxzC7kDAEY13JwOVifEAqc829RqiOmI5b1eq6aZtFe9ApEVOZ38LKf5EAT8B2Q.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x91,240x136,360x204,480x272,540x306,640x363,720x408,1080x613,1280x726,1440x817,1608x912&from=bu&cs=1280x0)
+
 ScreenMateCreator-создание скринмейтов из разных файлов анимаций и картинок. Creating screenshot memes from various animation and image files.
 Персонажа/скринмейт можно собрать в виде отдельного независимого exe-файла(программы), если вы хотите со всеми поделиться каким-то созданным персонажем-скринмейтом.
 *
