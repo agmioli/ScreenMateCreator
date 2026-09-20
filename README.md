@@ -9,6 +9,8 @@ ScreenMateCreator-создание скринмейтов из разных фа
 -из последовательности png-файлов(покадровая анимация).
 *
 У программы есть свой плеер медиафайлов форматов gif, json, tgs, webm, куда можно перетащить файл, посмотреть его анимацию, и тут же нажать кнопку "Сделать скринмейтом".
+![Скринмейт созданный программой уже в exe-формате, как отдельная программа](https://sun9-5.vkuserphoto.ru/s/v1/ig2/MYVKg-3sRqnk3sGgufJeKm67kOH0hWxNQUsIYWys6vqa9lqVjyRsaQy9nvmHmnmTbtLYUQ8Bj7rDbvHCJGJHdOVS.jpg?quality=95&as=32x13,48x19,72x28,108x42,160x63,240x94,360x141,480x188,540x212,640x251,720x282,845x331&from=bu&cs=845x0)
+
 /
 Create screenmates from different animation and image files. Creating screenshot memes from various animation and image files.
 The character/screenmate can be assembled as a separate independent exe file (program) if you want to share some created screenmate character with everyone.
