@@ -1,0 +1,92 @@
+[
+    {
+        "id": "5b92a69e-523a-493c-94db-7d5b21613a6f",
+        "type": "frames",
+        "paths": [
+            "C:/Users/Milan/Рабочий стол/drawable/anim1.png",
+            "C:/Users/Milan/Рабочий стол/drawable/anim2.png"
+        ],
+        "scale": 0.53,
+        "rotation": 9,
+        "is_visible": false,
+        "frame_delay": 227
+    },
+    {
+        "id": "84c483f2-8b6f-4ac1-95ec-28ea8490a510",
+        "type": "frames",
+        "paths": [
+            "C:/Users/Milan/Рабочий стол/drawable/drawable/person1.png",
+            "C:/Users/Milan/Рабочий стол/drawable/drawable/person2.png"
+        ],
+        "scale": 0.41,
+        "rotation": 21,
+        "frame_delay": 500,
+        "is_visible": false
+    },
+    {
+        "id": "ad78f595-281e-4416-8aef-9ba6424e7780",
+        "type": "json",
+        "paths": [
+            "E:/Разработки/lottie_out/sticker_041_layers2.json"
+        ],
+        "scale": 0.51,
+        "rotation": 0,
+        "frame_delay": 20,
+        "is_visible": false
+    },
+    {
+        "id": "52eb873d-7d6a-4fc5-b78e-dcfbcc49c6b4",
+        "type": "webm",
+        "paths": [
+            "C:/sticker.webm"
+        ],
+        "scale": 0.15,
+        "rotation": 24,
+        "frame_delay": 39,
+        "is_visible": false
+    },
+    {
+        "id": "6a99a374-c8bc-4a25-bc51-b35023f8e52c",
+        "type": "webm",
+        "paths": [
+            "C:/Users/Milan/Загрузки/chicken.webm"
+        ],
+        "scale": 0.39,
+        "rotation": 0.0,
+        "frame_delay": 45,
+        "is_visible": false
+    },
+    {
+        "id": "accb8441-4c1d-4170-b33e-6bde22e182a9",
+        "type": "webm",
+        "paths": [
+            "C:/Users/Milan/Загрузки/pyica-Picsart-BackgroundRemover.webm"
+        ],
+        "scale": 0.26,
+        "rotation": 0,
+        "frame_delay": 82,
+        "is_visible": true
+    },
+    {
+        "id": "ef6ab564-db82-4757-b4d4-f4ba034c7469",
+        "type": "webm",
+        "paths": [
+            "C:/Users/Milan/Загрузки/снежок-Picsart-BackgroundRemover.webm"
+        ],
+        "scale": 0.8,
+        "rotation": 0.0,
+        "frame_delay": 20,
+        "is_visible": true
+    },
+    {
+        "id": "4d612733-2a26-4050-b509-99d0f1824e5b",
+        "type": "tgs",
+        "paths": [
+            "E:\\ScreenMateCreator\\assets\\4d612733-2a26-4050-b509-99d0f1824e5b\\pesil.tgs"
+        ],
+        "scale": 1.0,
+        "rotation": 0.0,
+        "frame_delay": 100,
+        "is_visible": false
+    }
+]
